@@ -1,6 +1,6 @@
 # Git Practice
-https://chat.openai.com/c/b9e68c4f-b224-42c4-bc75-ade48a119752
-
+https://www.wired.com/story/chatgpt-coding-software-crisis/
+note: apology for the confusion, I pasted the wrong link originally..
 Summary of the Article
 
  - Quick Summary: The article discusses the historical context of concerns about AI 
