@@ -1,2 +1,19 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://chat.openai.com/c/b9e68c4f-b224-42c4-bc75-ade48a119752
+
+Summary of the Article
+
+ - Quick Summary: The article discusses the historical context of concerns about AI 
+		  replacing software engineers. It hightlights that past programmers
+		  were undervalued. However, the author claims that AI, like GHATGPT, 
+		  is unlikely to replace engineers' jobs.
+
+ - Interersting point: The article states the historical perspective on attempts to
+		       simplify programming. Early efforts, such as introducing
+		       programming languages like FORTRAN and COBOL, aimed to make
+		       coding more accessible and less reliant on skilled programmers.
+		       However, these innovations didn't replace programmers but instead
+		       added complexity to the field, ultimately increasing the demand for
+		       their expertise. 
+
+
